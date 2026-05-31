@@ -8,6 +8,7 @@ seaborn
 boto3
 jupyter
 ipykernel
+scipy
 
 # API
 fastapi
