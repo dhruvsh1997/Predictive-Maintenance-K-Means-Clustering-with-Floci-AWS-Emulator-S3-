@@ -1,0 +1,15 @@
+# Training (notebook)
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+boto3
+jupyter
+ipykernel
+
+# API
+fastapi
+uvicorn[standard]
+pydantic
