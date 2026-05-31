@@ -10,7 +10,7 @@ A complete ML pipeline that clusters industrial machine sensor data into health 
 
 1. [Project Overview](#project-overview)
 2. [Project Structure](#project-structure)
-3. [Tech Stack](#tech-stack)
+3. [Tech Stack](#tech-stacks)
 4. [What is Floci?](#what-is-floci)
 5. [Setup — Prerequisites](#setup--prerequisites)
 6. [Step 1 — Start Floci](#step-1--start-floci)
