@@ -2,7 +2,7 @@
 
 A complete ML pipeline that clusters industrial machine sensor data into health states — **Optimal**, **Degrading**, **Critical Failure Risk** — and serves predictions via a FastAPI REST API.
 
-**Every prediction is automatically logged** (input + output) to a CSV file in S3 that grows with each call. Model artifacts are stored in S3 and the API runs locally, with S3 emulated using **floci**.
+**Every prediction is automatically logged** (input + output) to a CSVs file in S3 that grows with each call. Model artifacts are stored in S3 and the API runs locally, with S3 emulated using **floci**.
 
 ---
 
