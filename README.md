@@ -14,7 +14,7 @@ A complete ML pipeline that clusters industrial machine sensor data into health 
 4. [What is Floci?](#what-is-floci)
 5. [Setup — Prerequisites](#setup--prerequisites)
 6. [Step 1 — Start Floci](#step-1--start-floci)
-7. [Step 2 — Configure AWS Credentials](#step-2--configure-aws-credentials)
+7. [Step 2 — Configure AWS Credential](#step-2--configure-aws-credentials)
 8. [Step 3 — Install Python Dependencies](#step-3--install-python-dependencies)
 9. [Step 4 — Train the Model (Jupyter Notebook)](#step-4--train-the-model-jupyter-notebook)
 10. [Step 5 — Verify S3 Upload](#step-5--verify-s3-upload)
